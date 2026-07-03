@@ -1,1 +1,1 @@
-# Programming-lab-day-1
+# Programming-lab-day
